@@ -1,0 +1,8 @@
+baseURL = 'https://emergentdna.com/'
+languageCode = 'en-us'
+title = 'EmergentDNA'
+theme = 'PaperMod'
+
+[params]
+  disableThemeToggle = true
+  defaultTheme = "dark"
